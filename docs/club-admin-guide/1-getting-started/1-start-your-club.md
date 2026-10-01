@@ -1,19 +1,11 @@
 ---
 title: Start Your Club
-description: Step-by-step guide to starting a new club and completing the
-  affiliation process.
-icon: material/rocket
 hide:
   - toc
 ---
-
-
 --8<-- "includes/abbr.md"
 
-# edit done by dijen   
-  
-  
-Start Your Club
+# Start Your Club
 
 Welcome to TUSA! Glad to see you here.
 
