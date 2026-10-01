@@ -1,15 +1,19 @@
 ---
 title: Start Your Club
-description: Step-by-step guide to starting a new club and completing the affiliation process.
+description: Step-by-step guide to starting a new club and completing the
+  affiliation process.
 icon: material/rocket
 hide:
   - toc
 ---
 
-<!-- For Acronyms Hint-On-Hover -->
+
 --8<-- "includes/abbr.md"
 
-# Start Your Club
+# edit done by dijen   
+  
+  
+Start Your Club
 
 Welcome to TUSA! Glad to see you here.
 
@@ -109,7 +113,7 @@ Hence, please be ready for your meeting by having:
 - Any questions about requirements
 - Ideas about who might be on your executive committee
 
-**Please** [**book in a time to meet with your CSO**](https://outlook.office.com/book/TUSAClubsTeam@UniversityTasmania.onmicrosoft.com/?ismsaljsauthenabled).
+**Please** **[book in a time to meet with your CSO](https://outlook.office.com/book/TUSAClubsTeam@UniversityTasmania.onmicrosoft.com/?ismsaljsauthenabled)**.
 
 [Email Us](mailto:clubs@tusa.utas.edu.au){ .md-button .md-button--primary }
 [Book Now](https://outlook.office.com/book/TUSAClubsTeam@UniversityTasmania.onmicrosoft.com/?ismsaljsauthenabled){ .md-button .md-button--primary }
@@ -174,11 +178,13 @@ You will receive the invitation to submit the affiliation application.
 
 You will need to prepare following documents for application:
 
-| Document            | What It Is                                          |
+
+| Document | What It Is |
 | ------------------- | --------------------------------------------------- |
-| **Constitution**    | Your club's rules and governance structure          |
-| **Meeting minutes** | Your IGM Meeting Minutes                            |
-| **Member list**     | Your memebers and executive committee's information |
+| **Constitution** | Your club's rules and governance structure |
+| **Meeting minutes** | Your IGM Meeting Minutes |
+| **Member list** | Your memebers and executive committee's information |
+
 
 ### What Should Be There?
 
@@ -193,13 +199,15 @@ Your application **MUST** include:
 
 When your application is approved, the system automatically creates:
 
-| Item                   | What is that?                              |
+
+| Item | What is that? |
 | ---------------------- | ------------------------------------------ |
-| **Club group**         | Your private group on the TUSA website     |
-| **President account**  | Login for managing the club                |
-| **Committee accounts** | Logins for your executive members          |
-| **Club store**         | For selling memberships and merchandise    |
-| **Startup grant**      | Automatic application for new club funding |
+| **Club group** | Your private group on the TUSA website |
+| **President account** | Login for managing the club |
+| **Committee accounts** | Logins for your executive members |
+| **Club store** | For selling memberships and merchandise |
+| **Startup grant** | Automatic application for new club funding |
+
 
 **Note:** President account and committee accounts are institutional accounts, it is dedicated for the club and is different from your personal TUSA account, once new person has been commited to the role the account will be hand over to the new member.
 
@@ -229,7 +237,7 @@ You'll receive feedback on why. Common issues can often be fixed and resubmitted
 
 ## Need Help?
 
-**Email:** clubs@tusa.edu.au
+**Email:** [clubs@tusa.edu.au](mailto:clubs@tusa.edu.au)
 
 **In Person:** Visit the TUSA office
 
