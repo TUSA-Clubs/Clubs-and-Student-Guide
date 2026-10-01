@@ -93,7 +93,9 @@ nav = [
         { "Clubs And Societies" = [
             "student-help-centre/1-clubs-and-societies/index.md",
             { "Join Clubs" = "student-help-centre/1-clubs-and-societies/1-join-clubs.md" },
-            { "Start A New Club" = "student-help-centre/1-clubs-and-societies/2-start-a-new-club.md" },
+            { "Start A New Club" = "student-help-centre/1-clubs-and-societies/2-start-a-new-club.md" }
+            { "new Page" = "student-help-centre/1-clubs-and-societies/2026-10-01-this-is-the-new-added-pages.md" },
+            
         ] },
         { "Events" = [
             "student-help-centre/2-events/index.md",
