@@ -63,7 +63,6 @@ nav = [
             { "test page" = "club-admin-guide/test/test-page.md" },
         ] },
         
-        club-admin-guide/test/test-page.md
         { "Your Club" = [
             "club-admin-guide/2-your-club/index.md",
             { "Annual Reaffiliation" = "club-admin-guide/2-your-club/1-annual-reaffiliation.md" },
