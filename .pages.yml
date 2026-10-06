@@ -20,6 +20,7 @@ content:
     exclude:
       - "**/media/**"
       - "**/images/**"
+    filename: "{primary}.md"
       
     fields:
       - name: title
